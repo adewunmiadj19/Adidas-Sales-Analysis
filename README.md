@@ -3,7 +3,7 @@
 
 ## Introduction
 Adidas store is prominent for producing athletic shoes and apparel. Adidas store seeks to leverage data-driven insights to keep track of its sales performance across different geographic locations, product categories, sales method and consumer preferences.
-Power BI tools were utilized to analyze sales performance, identify key performance index (KPIS), evaluate the sales trend overtime, and provide recommendations for further sales improvement.
+Power BI tools were utilized to analyze sales performance, identify key performance indicators(KPIS), evaluate the sales trend overtime, and provide recommendations for further sales improvement.
 
 **_DISCLAIMER_**: **_All dataset or report do not represent any company. But just a dummy dataset to represent the capabilities of power Bi_**
 
